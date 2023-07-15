@@ -1,7 +1,7 @@
 # PHP---Web-Development
 
-This was a university project that I did in my final semester of University in 2019 while I was studying at University of Murdoch, Singapre campus. 
-Me and my group build this software. I was the project lead and the software architecture of this development.
+This was a university project that I did in my final semester of University in 2019 while I was studying at University of Murdoch, Singapore campus. 
+My group and I build this software. I was the project lead and the software architecture of this development.
 Meanwhile, I also contributed extensively to the code by writing the backend logic of the SQL database, the interaction between the PHP and SQL database, the API page between Google Map and our website.
 
 The requirements of this project as here:
@@ -17,6 +17,5 @@ The project’s aims are:
 
 How to setup the website -- User friendly guide
 
-Download Installation Manual
-1. Download Rar File from Google-link to setup the web development - https://drive.google.com/file/d/1t-OpEXKRIxWDOwUqZiEe6zIkN025vn2S/view?usp=drive_link
+1. Download Installation Manual - https://drive.google.com/file/d/1vOCKAxH300C5aggPMSQxnwehwmMFIzzL/view?usp=drive_link
 2. Download Rar File from Google-link to setup the web development - https://drive.google.com/file/d/1t-OpEXKRIxWDOwUqZiEe6zIkN025vn2S/view?usp=drive_link
